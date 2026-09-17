@@ -1,0 +1,6 @@
+{
+  "name": "Sand Business Ledger",
+  "description": "বালু ব্যবসা হিসাব খাতা - নদী থেকে বল গেট ড্রেজারে বালু উত্তোলন, স্টকপাইল মজুদ, ট্রাক বিক্রয় (CFT), বাকি ফলোআপ, শেয়ারহোল্ডার ও লাভ-ক্ষতির পূর্ণাঙ্গ ডিজিটাল ব্যবস্থাপনা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
